@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "mmy-cv"
-  }
+    "default": "mmy-cv",
+    "prod": "mmy-cv"
+  },
+  "targets": {},
+  "etags": {}
 }
